@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&family=Raleway:wght@200;300;400;500;600;700;800;900&display=swap');
+*{
+	font-family: 'Montserrat', sans-serif;
+font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.step-section{
+	padding-top: 30px;
+	background: url("../img/img-2.png"), no-repeat;
+	background-size: cover;
+	height: 80vh;
+
+}
+
+.contact-section{
+	background: url("../img/bg-coin.png"),no-repeat;
+	background-size: cover;
+	height: 60vh;
+}
+
+.footer-section{
+	background: black;
+	color: white;
+}
